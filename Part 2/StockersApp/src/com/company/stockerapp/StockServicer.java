@@ -36,7 +36,7 @@ public class StockServicer {
         while (true) {
             //display options
             System.out.println();
-            System.out.println("---------------------------------------------");
+            System.out.println("-----------------------------------------------------------------------------");
             System.out.println("Enter the operation that you want to perform");
             System.out.println("1. Display the companies stock prices in ascending order");
             System.out.println("2. Display the companies stock prices in descending order");
@@ -44,7 +44,7 @@ public class StockServicer {
             System.out.println("4. Display the total no of companies for which stock prices declined today");
             System.out.println("5. Search a specific stock price");
             System.out.println("6. Press 0 to exit");
-            System.out.println("---------------------------------------------");
+            System.out.println("-----------------------------------------------------------------------------");
 
             int choice = sc.nextInt();
 
