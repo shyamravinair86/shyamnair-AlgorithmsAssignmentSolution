@@ -1,7 +1,7 @@
-package com.company.stockerapp.helper;
+package com.company.stockerapp;
 
-import com.company.gen.services.SearchServicer;
-import com.company.gen.services.SortingServicer;
+import com.company.services.SearchServicer;
+import com.company.services.SortingServicer;
 
 public class StockerHelper {
     //variables

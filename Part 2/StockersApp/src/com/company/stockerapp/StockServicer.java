@@ -1,6 +1,6 @@
-package com.company.stockerapp.service;
+package com.company.stockerapp;
 
-import com.company.stockerapp.helper.StockerHelper;
+import com.company.stockerapp.StockerHelper;
 
 import java.util.Scanner;
 

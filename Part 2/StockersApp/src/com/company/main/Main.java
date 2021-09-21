@@ -1,6 +1,6 @@
 package com.company.main;
 
-import com.company.stockerapp.service.StockServicer;
+import com.company.stockerapp.StockServicer;
 
 public class Main {
 

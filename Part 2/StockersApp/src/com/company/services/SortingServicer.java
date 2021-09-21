@@ -1,4 +1,4 @@
-package com.company.gen.services;
+package com.company.services;
 
 public class SortingServicer {
 
